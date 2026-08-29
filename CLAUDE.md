@@ -22,4 +22,4 @@ O manual humano dessa instalação é o [INSTALACAO-DO-ZERO.md](INSTALACAO-DO-ZE
 
 - Agente dedicado ao **Funil 8** (produto de entrada low ticket R$ 35-98 · campanha de Vendas com cost cap · order bumps · upsell) da Turbo Academy: 1 agente + 12 skills, roda **sem** o Squad Turbo completo. Comece pelo [README](README.md).
 - Regras do método: o funil capta comprador a custo zero — o lucro vem do backend; toda campanha nasce **PAUSED**; token da Meta **nunca** entra no repo.
-- O repo é público. As skills são cópias das canônicas do Squad Turbo (repo squad-turbo-lpsg-7.0) — melhorias entram por lá e são sincronizadas pra cá; não edite as cópias daqui à mão.
+- O repo é público. As skills são cópias das canônicas do Squad Turbo (repo squad-turbo-2026) — melhorias entram por lá e são sincronizadas pra cá; não edite as cópias daqui à mão.
